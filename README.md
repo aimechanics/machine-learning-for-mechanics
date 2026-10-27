@@ -33,12 +33,14 @@
 
 #### Scope
 
-The course focuses on:
+The course focuses on introducing the main concepts of machine learning methods for mechanics:
 
-- physics-informed learning,
-- operator learning,
-- structured models and differentiable solvers,
-- comparison with classical numerical methods.
+- regression methods,
+- classification methods,
+- clustering and unsupervised learning,
+- dimensionality reduction methods,
+- artificial neural networks,
+- physics-informed neural networks.
 
 #### Prerequisites
 
